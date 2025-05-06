@@ -92,8 +92,5 @@ The frontend will be available at http://localhost:5173
 - `cd server && npm run dev` - Start backend development server
 - `cd server && npm run start` - Start backend production server
 
-## API Documentation
-API documentation is available at http://localhost:5000/api-docs when the server is running.
-
 ## Note
 Make sure both MySQL server and Node.js server are running before starting the frontend application.
