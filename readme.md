@@ -95,9 +95,5 @@ The frontend will be available at http://localhost:5173
 ## API Documentation
 API documentation is available at http://localhost:5000/api-docs when the server is running.
 
-## Default Admin Account
-- Email: admin@bookmyslot.com
-- Password: admin123
-
 ## Note
 Make sure both MySQL server and Node.js server are running before starting the frontend application.
